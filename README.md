@@ -1,8 +1,6 @@
-# Group Chat
+# Group Chat Using Pubnub
 
-`group-chat` is an app that showcases a complex chat use case allowing you to see all PubNub Chat Components for React in action. After running the app, you can send messages as a sample user in a 1:1 and group channel, upload files, and add message reactions to messages. Additionally, this app (also referred to as the "moderated chat app") works as a showcase app on which you can test features offered by our [Moderation Dashboard](https://www.pubnub.com/docs/chat/moderation-dashboard/getting-started) to learn how to moderate and manage users, messages, and channels with PubNub.
-
-![Group chat app for React](screenshot.png)
+This project uses React.js, SDK & APIs from [Pubnub](https://www.pubnub.com/docs). It also uses vite to build the project.
 
 ## Prerequisites
 
